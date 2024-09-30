@@ -1,0 +1,267 @@
+body{
+    background-color: black;
+    color: white;
+}
+.header{
+    background-color: black;
+    width: 100%;
+    height: 70px;
+    margin-top: -14px;
+
+
+}
+.logo{
+    width: 200px;
+    margin-left: -30px;
+    margin-top: -25px;
+
+}
+.nava{
+    margin-left: 150px;
+    word-spacing: 50px;
+    margin-top: -65px;
+}
+.line{
+    height: 28px;
+    width: 40px;
+    float: left;
+    margin-left: 360px;
+    margin-top: -24px;
+    
+}
+.collect{
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin-left: 30px;
+    margin-top: -20px;
+}
+.sub{
+    float: right;
+    margin-right: 660px;
+    margin-top: -19px;
+}
+.search{
+    width: 20px;
+    float: right;
+    margin-right: 360px;
+    margin-top: -10px;
+    display: flex;
+}
+.select{
+    float: right;
+    margin-right: -100px;
+    margin-top: -10px;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 10px;
+}
+.menu{
+    width:30px;
+    float: right;
+    margin-right: -170px;
+    margin-top: -16px;
+}
+.user{
+    width: 30px;
+    float: right;
+    margin-right: -230px;
+    margin-top: -18px;
+}
+.button{
+    height: 40px;
+    width: 100px;
+    background-color: skyblue;
+    border-bottom: 20px;
+    border-radius: 10px;
+    float: right;
+    margin-right: -350px;
+    margin-top: -24px;
+}
+.div1{
+    width: 50%;
+    height: 100px;
+    background-color: black;
+    margin-top: 5px;
+    float: right;
+
+}
+.img1{
+    opacity: 0.5;
+}
+.div2{
+    width: 60%;
+    height: 40%;
+    background-color: black;
+    margin-left:-670px;
+    position: absolute;
+    margin-top: -36%;
+    background: transparent;
+}
+.h2-p{
+    font-size: x-large;
+    padding-left: 30px;
+}
+.button1{
+    background-color: rgb(6, 141, 187);
+    border: 0px;
+    border-radius: 5px;
+    width: 40%;
+    height: 50px;
+    margin-top: 20px;
+}
+.div3{
+    width: 218%;
+    height: 200%;
+    background-color: ;
+    margin-left: -800px;
+
+}
+.div4{
+    width: 145%;
+    height: 630px;
+    background-color: black;
+    margin-top: 30px;
+    margin-left: -300px;
+}
+.img2{
+    height: 100%;
+    width: 150%;
+    opacity: 0.8;
+    display: flex;
+    border-radius: 5px;
+    margin-left: -500px;
+}
+.div5{
+    width: 70%;
+    height: 630px;
+    background-color: red;
+    position: absolute;
+    margin-top: -630px;
+    margin-left: -700px;
+    opacity: 0.9;
+    background: transparent;
+    font-weight: 10px;
+}
+.last-div{
+    width: 200%;
+    height: 640px;
+    background-color: white;
+    margin-left: -700px;
+}
+.img3{
+    height: px;
+    float: right;
+    display: flex;
+    margin-top:10px;
+    margin-right: 40px;
+}
+.img4{
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+    display: flex;
+}
+.img5{
+    float: right;
+    margin-top: 10px;
+    margin-right: 10px;
+    display: flex;
+}
+.img6{
+    float: right;
+    margin-right: -675px;
+    margin-top: 170px;
+    display: flex;
+}
+.img7{
+    float: right;
+    margin-top: 170px;
+    margin-right: -445px;
+    display: flex
+}
+.img8{
+    float: right;
+    margin-top: 170px;
+    margin-right: -218px;
+    display: flex;
+}
+.img9{
+    float: right;
+    margin-top: 330px;
+    margin-right: -675px;
+    display: flex;
+}
+.img10{
+    float: right;
+    margin-top: 330px;
+    margin-right: -445px;
+    display: flex;
+}
+.img11{
+    float: right;
+    margin-top: 330px;
+    margin-right: -220px;
+    display: flex;
+}
+.img12{
+    float: right;
+    margin-top: 490px;
+    margin-right: -675px;
+    display: flex;
+}
+.img13{
+    float: right;
+    margin-top: 490px;
+    margin-right: -445px;
+    display: flex;
+
+}
+.img14{
+    float: right;
+    margin-top: 490px;
+    margin-right: -220px;
+}
+.last-div-2{
+    width: 50%;
+    height: 60%;
+    background-color: white;
+    padding-left: 100px;
+    padding-top: 50px;
+    color: black;
+}
+.h2{
+    font-size: 40px;
+    line-height: 3.1rem;
+}
+.p1{
+    font-size: x-large;
+}
+.footer{
+    width: 215%;
+    height:150px;
+    background-color: rgb(44, 43, 43);
+    margin-left: -800px;
+}
+.logo1{
+    margin-left: 700px;
+    height: 60px;
+}
+.footer-text{
+    text-align: center;
+    padding-top: 5px;
+    word-spacing: 10px;
+}
+.hash2,a{
+    color: grey;
+    text-decoration: none;
+}
+.hash1{
+    color: rgb(26, 174, 223);
+}
+
+
+
+
+
+
